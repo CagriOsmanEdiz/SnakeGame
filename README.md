@@ -13,7 +13,9 @@ Klasik Yılan Oyunu mekaniklerinin modern C# WinForms ve **ADO.NET** veritabanı
 
 | Oyun İçi Görüntü | Liderlik Tablosu & Skor Kaydı |
 | :---: | :---: |
-| ![Oyun Görüntüsü]---<img width="747" height="752" alt="Oyun Başlangıcı" src="https://github.com/user-attachments/assets/86198521-3b22-49b1-a733-dd85341d1dbb" /> | ![Liderlik Tablosu] |
+| ![Oyun Görüntüsü]---<img width="747" height="752" alt="Oyun Başlangıcı" src="https://github.com/user-attachments/assets/86198521-3b22-49b1-a733-dd85341d1dbb" /> 
+
+| ![Liderlik Tablosu] |
 <img width="750" height="752" alt="Skor Tablosu" src="https://github.com/user-attachments/assets/2dbaddba-9ff5-43f9-b2b3-8e177967fedd" />
 
 
