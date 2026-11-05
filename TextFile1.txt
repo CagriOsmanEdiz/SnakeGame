@@ -1,0 +1,10 @@
+score++;
+            txtScore.Text = "Score: " + score;
+            Circle body = new Circle
+            {
+                x = Snake[Snake.Count - 1].x,
+                y = Snake[Snake.Count - 1].y
+            };
+            Snake.Add(body);
+
+            food = new Circle { x = random.Next(2, maxWidth), y = random.Next(2, maxHeight) };
